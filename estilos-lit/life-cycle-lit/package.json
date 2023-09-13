@@ -1,8 +1,8 @@
 {
-  "name": "estilos-lit",
-  "description": "Webcomponent estilos-lit following open-wc recommendations",
+  "name": "life-cycle-lit",
+  "description": "Webcomponent life-cycle-lit following open-wc recommendations",
   "license": "MIT",
-  "author": "estilos-lit",
+  "author": "life-cycle-lit",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,8 +10,7 @@
     "start": "web-dev-server"
   },
   "dependencies": {
-    "lit": "^2.0.2",
-    "lit-html": "^2.8.0"
+    "lit": "^2.0.2"
   },
   "devDependencies": {
     "@custom-elements-manifest/analyzer": "^0.4.17",
