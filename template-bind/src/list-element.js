@@ -14,5 +14,4 @@ class ListElelement extends LitElement {
         `
     }
 }
-
 customElements.define("list-element", ListElelement);

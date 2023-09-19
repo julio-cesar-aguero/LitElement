@@ -3,8 +3,9 @@ import { LitElement, html, css } from "lit";
 class Header extends LitElement {
   static styles = css`
     :host {
-      width: 100%;
-      min-height: 100vh;
+      position: fixed;
+      width: 100vw;
+      min-height: 10vh;
       display: flex;
       flex-direction: column;
       align-items: center;

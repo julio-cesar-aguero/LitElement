@@ -36,13 +36,13 @@ class PropertiesLit extends LitElement {
           super clase
         </li>
       </ul>
-      <!-- <property-reflect></property-reflect> -->
+      <!--<property-reflect></property-reflect> -->
       <!-- <my-converter></my-converter> -->
       <!-- <observed-attribute></observed-attribute> -->
-      <h3>Metodos Setters y getters</h3>
+      <!-- <h3>Metodos Setters y getters</h3>-->
       <!-- <my-accesors></my-accesors> -->
-      <h3>hasChanged personalizado </h3>
-      <custom-changed></custom-changed>
+       <h3>hasChanged personalizado </h3> -->
+       <custom-changed></custom-changed>-->
 
     `;
   }
